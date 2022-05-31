@@ -55,6 +55,10 @@ return [
     */
 
     'url' => env('APP_URL', 'http://localhost'),
+    'ecommerce_url' => env('ECOMMERCE_URL', 'http://localhost:8001'),
+    'ecommerce_manual' => env('ECOMMERCE_MANUAL', 'http://localhost:8002'),
+    'restoran' => env('RESTORAN', 'http://localhost:8003'),
+    'Blog' => env('BLOG', 'http://localhost:8004'),
 
     'asset_url' => env('ASSET_URL'),
 
