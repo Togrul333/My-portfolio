@@ -128,10 +128,10 @@
                                 <img src="{{asset('Front/')}}/img/portfolio/E_MVS.jpeg" class="img-responsive" alt="Project Title"> </a> </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 photography">
+                <div class="col-sm-6 col-md-3 col-lg-3 product">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="{{config('app.ecommerce_manual')}}" >
-                                <img src="{{asset('Front/')}}/img/portfolio/E-manual.jpeg" class="img-responsive" alt="Project Title"> </a> </div>
+                        <div class="hover-bg"> <a href="{{config('app.network')}}" >
+                                <img src="{{asset('Front/')}}/img/portfolio/network.jpeg" class="img-responsive" alt="Project Title"> </a> </div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg-3 product">
